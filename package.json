@@ -1,5 +1,5 @@
 {
-  "name": "exceljs",
+  "name": "@maxaggedon/exceljs",
   "version": "1.7.0",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exceljs/exceljs.git"
+    "url": "https://github.com/maxaggedon/exceljs.git"
   },
   "engines": {
     "node": ">=6.0.0"
@@ -63,7 +63,6 @@
     "fast-csv": "^2.4.0",
     "jszip": "3.1.3",
     "moment": ">=2.19.3",
-    "node-unzip-2": "^0.2.7",
     "promish": ">=5.0.2",
     "sax": "^1.2.2",
     "temp": "0.8.3"
